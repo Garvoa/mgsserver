@@ -1,5 +1,5 @@
 {
-  "name": "mgsserver",
+  "name": "mgssserver",
   "version": "0.0.2",
   "description": "NodeJS静态资源服务器",
   "keywords": [
